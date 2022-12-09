@@ -1,0 +1,26 @@
+(PO)
+Product Owner: Gabriel Reis de Aquino
+
+(SM)
+Scrum Master :
+
+	
+	Desenvolvedor 1: (Devs)
+	Habilidades:
+	Experiência:
+
+	Desenvolvedor 2: (Devs)
+	Habilidades:
+	Experiência:
+
+	Desenvolvedor 3: (Devs)
+	Habilidades:
+	Experiência:
+
+	Desenvolvedor 4: (Devs)
+	Habilidades:
+	Experiência:
+
+	Desenvolvedor 5: (Devs)
+	Habilidades:
+	Experiência:
